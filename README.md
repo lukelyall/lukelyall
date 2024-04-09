@@ -20,9 +20,8 @@ Here are some ideas to get you started:
       <code>Computer Science and Cyber Operations Student</code><br> 
       I'm currently in my senior year at Cedarville University, pursuing a double major in Computer Science and Cyber Operations. I develop my coding projects from scratch, occasionally collaborating with friends.
     </p>
-  <br/>
+  <br>
 </div>
-
 
 <div align="center">
   <h2>🧰 Languages and Tools</h2>
@@ -42,7 +41,6 @@ Here are some ideas to get you started:
   <br/>
 </div>
 
-
 <div align="center">
   <h2>💹 Stats</h2>
   <p align='center'><img src="https://github-readme-stats.vercel.app/api?username=lukelyall&show_icons=true&theme=gruvbox" alt="GitHub Stats"></p>
@@ -51,4 +49,3 @@ Here are some ideas to get you started:
 
 <p align='center'><a href="https://www.linkedin.com/in/luke-lyall">Linkedin<a> / <a href="https://luke-lyall.vercel.app/">Portfolio<a> / <a href="mailto:llyall@cedarville.edu">llyall@cedarville.edu<a></p>
 <p align='center'><img src="https://komarev.com/ghpvc/?username=lukelyall" alt="GitHub Views"></p>
-
