@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h2>💹 Stats</h2>
-  <p align='center'><img src="https://github-readme-stats.vercel.app/api?username=lukelyall&show_icons=true&theme=gruvbox" alt="GitHub Stats"></p>
+  <p align='center'><img src="https://github-readme-stats.vercel.app/api?username=lukelyall&show_icons=true&theme=tokyonight" alt="GitHub Stats"></p>
   <br>
 </div>
 
