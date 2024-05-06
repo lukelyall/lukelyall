@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <div align="center">
   <h1>Luke Lyall</h1>
     <p>
-      <code>Computer Science and Cyber Operations Student</code><br> 
-      I'm currently in my senior year at Cedarville University, pursuing a double major in Computer Science and Cyber Operations. I develop my coding projects from scratch, occasionally collaborating with friends.
+      <code>Computer Science and Cyber Operations</code><br> 
+      I'm a graduate of Cedarville University with a double major in Computer Science and Cyber Operations. I develop my coding projects from scratch, occasionally collaborating with friends.
     </p>
   <br>
 </div>
