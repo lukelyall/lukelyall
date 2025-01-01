@@ -47,5 +47,5 @@ Here are some ideas to get you started:
   <br>
 </div>
 
-<p align='center'><a href="https://www.linkedin.com/in/luke-lyall">Linkedin<a> / <a href="https://luke-lyall.vercel.app/">Portfolio<a> / <a href="mailto:llyall@cedarville.edu">llyall@cedarville.edu<a></p>
+<p align='center'><a href="https://www.linkedin.com/in/luke-lyall">Linkedin<a> / <a href="https://luke-lyall.vercel.app/">Portfolio<a> / <a href="mailto:lukelyall2012@gmail.com">llyall@cedarville.edu<a></p>
 <p align='center'><img src="https://komarev.com/ghpvc/?username=lukelyall" alt="GitHub Views"></p>
