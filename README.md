@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h2>💹 Stats</h2>
-  <p align='center'><img src="https://github-readme-stats.vercel.app/api?username=lukelyall&show_icons=true&theme=tokyonight" alt="GitHub Stats"></p>
+  <p align='center'><img src="https://streak-stats.demolab.com?user=lukelyall&t&hide_border=true&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=500" alt="GitHub Stats"></p>
   <br>
 </div>
 
