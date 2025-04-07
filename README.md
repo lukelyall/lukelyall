@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <h1>Luke Lyall</h1>
     <p>
       <code>Computer Science and Cyber Operations</code><br> 
-      I'm a graduate of Cedarville University with a double major in Computer Science and Cyber Operations. I develop my coding projects from scratch, occasionally collaborating with friends.
+      I'm an Analyst/Programmer. I develop software with a variety of different programming languages and tools, occasionally collaborating with friends.
     </p>
   <br>
 </div>
